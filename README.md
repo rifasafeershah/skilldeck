@@ -70,3 +70,27 @@ Choose target role:
 ## Step 3
 Generate SkillGraph and view results:
 <img width="1554" height="1303" alt="image" src="https://github.com/user-attachments/assets/6d97f62d-eddf-4935-96a2-b2181ff08167" />
+
+# Future Enhancements
+## Phase 2
+- Resume Parsing
+- LinkedIn Profile Import
+- PDF Certificate Upload
+- Skill Verification Links
+## Phase 3
+- AI-Powered Skill Extraction
+- LLM-Based Career Recommendations
+- Personalized Learning Paths
+- Industry Benchmarking
+# Phase 4
+- Recruiter Dashboard
+- Candidate Matching Engine
+- Hiring Analytics
+- Employer Partnerships
+
+# Product Vision
+SkillGraph aims to become the standard platform for skill readiness and career intelligence by transforming learning achievements into measurable, actionable career insights. Rather than focusing solely on completed courses, SkillGraph focuses on what truly matters: Can a person perform in the role they aspire to achieve?
+
+# Author
+Rifa Safeer Shah
+LinkedIn: https://www.linkedin.com/in/rifasafeershah/
