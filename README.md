@@ -41,6 +41,7 @@ Quantified measurements of skill proficiency.
 
 #### Step 2: Extract Skills
 Each learning experience maps to one or more skills.
+
 <img width="418" height="465" alt="image" src="https://github.com/user-attachments/assets/f7a526b2-a3a3-4337-9b43-c16c1a4d2a35" />
 
 #### Step 3: Assign Learning Points
@@ -107,6 +108,7 @@ Low Confidence Skills:
 
 ### Receommendation Engine
 Based on identified gaps, SkillGraph recommends actions.
+
 <img width="502" height="470" alt="image" src="https://github.com/user-attachments/assets/88bcf242-7383-49b9-b446-1d00074df639" />
 
 # Tech Stack
