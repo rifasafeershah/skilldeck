@@ -150,7 +150,7 @@ Generate SkillGraph and view results:
 - LLM-Based Career Recommendations
 - Personalized Learning Paths
 - Industry Benchmarking
-# Phase 4
+## Phase 4
 - Recruiter Dashboard
 - Candidate Matching Engine
 - Hiring Analytics
