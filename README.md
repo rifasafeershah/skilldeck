@@ -161,4 +161,5 @@ SkillGraph aims to become the standard platform for skill readiness and career i
 
 # Author
 Rifa Safeer Shah
+
 LinkedIn: https://www.linkedin.com/in/rifasafeershah/
