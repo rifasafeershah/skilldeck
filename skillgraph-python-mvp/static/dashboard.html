@@ -1,0 +1,82 @@
+<body>
+
+<div class="container">
+
+<h1>SkillDeck Dashboard</h1>
+
+<section>
+
+<h2>Add Learning Activity</h2>
+
+<input
+placeholder="Course Name"
+id="title"
+/>
+
+<select id="type">
+<option>Course</option>
+<option>Certification</option>
+<option>Project</option>
+</select>
+
+<button id="addBtn">
+Add Activity
+</button>
+
+</section>
+
+<section>
+
+<h2>Target Role</h2>
+
+<select id="role">
+
+<option>
+Data Analyst
+</option>
+
+<option>
+Product Manager
+</option>
+
+<option>
+Cybersecurity Analyst
+</option>
+
+</select>
+
+<button id="generateBtn">
+Generate Insights
+</button>
+
+</section>
+
+<section>
+
+<h2>Role Fit Score</h2>
+
+<div id="fitScore"></div>
+
+</section>
+
+<section>
+
+<h2>Skill Scores</h2>
+
+<div id="skills"></div>
+
+</section>
+
+<section>
+
+<h2>Recommendations</h2>
+
+<div id="recommendations"></div>
+
+</section>
+
+</div>
+
+<script src="js/dashboard.js"></script>
+
+</body>
